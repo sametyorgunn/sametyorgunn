@@ -18,6 +18,9 @@
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.Net)&nbsp;
+![.EntityFramework](https://img.shields.io/badge/-EntityFrameworkcore-05122A?style=flat&logo=Csharp)&nbsp;
+![.Linq](https://img.shields.io/badge/-LinQ-05122A?style=flat&logo=Csharp)&nbsp;
+![.MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=Microsoft%20SQL%20Server)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
